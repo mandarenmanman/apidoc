@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T03:03:36.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="BidDlHqP_CCGLaFh9QYK" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T03:05:55.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="jbIjp8A4QG2FNxetJHRV" version="14.9.8" type="github">
   <diagram id="6cXuIR9uXFfhO3KRluvD" name="第 1 页">
     <mxGraphModel dx="2489" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PeSZ7eTRu0SoFlYCp6fg-6" value="获取设备信息API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PeSZ7eTRu0SoFlYCp6fg-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="PeSZ7eTRu0SoFlYCp6fg-5" target="PeSZ7eTRu0SoFlYCp6fg-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
