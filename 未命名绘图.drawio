@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T08:44:21.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="AxQk_uVi2ZNYrMdpCVSI" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T08:45:25.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="dI16p0red-Nv_gd9803m" version="15.5.4" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
             <mxPoint x="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yaiKkiEzi8uJ0ouDUMKI-33" value="获取箱格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yaiKkiEzi8uJ0ouDUMKI-33" value="确认箱格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="180" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yaiKkiEzi8uJ0ouDUMKI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.675;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yaiKkiEzi8uJ0ouDUMKI-6" target="yaiKkiEzi8uJ0ouDUMKI-6">
