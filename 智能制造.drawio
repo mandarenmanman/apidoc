@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T12:12:33.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="W6F5NHCArXM71i6ncUv8" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T12:15:15.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="xBbItjogD7PjpqBxtpQA" version="15.9.6" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="p4RkM09pUHm_iv8dgquL-131" value="智能制造-QA智能化系统" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="p4RkM09pUHm_iv8dgquL-131" value="智能制造-QC智能化系统" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="20" width="890" height="860" as="geometry" />
         </mxCell>
         <mxCell id="p4RkM09pUHm_iv8dgquL-132" value="用户" style="swimlane;html=1;startSize=20;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-131">
@@ -16,7 +16,7 @@
         <mxCell id="p4RkM09pUHm_iv8dgquL-134" value="扫描设备二维码" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-132">
           <mxGeometry x="20" y="180" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p4RkM09pUHm_iv8dgquL-187" value="QA任务执行" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-132">
+        <mxCell id="p4RkM09pUHm_iv8dgquL-187" value="&lt;span style=&quot;font-weight: 700&quot;&gt;QC&lt;/span&gt;任务执行" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-132">
           <mxGeometry x="20" y="570" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p4RkM09pUHm_iv8dgquL-136" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" edge="1" parent="p4RkM09pUHm_iv8dgquL-131" source="p4RkM09pUHm_iv8dgquL-133" target="p4RkM09pUHm_iv8dgquL-152">
@@ -37,16 +37,16 @@
         <mxCell id="p4RkM09pUHm_iv8dgquL-178" value="登录失败" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-151">
           <mxGeometry x="130" y="300" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p4RkM09pUHm_iv8dgquL-180" value="获取对应设备QA流程清单" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-151">
+        <mxCell id="p4RkM09pUHm_iv8dgquL-180" value="获取对应设备&lt;span style=&quot;font-weight: 700&quot;&gt;QC&lt;/span&gt;&lt;br&gt;流程清单" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-151">
           <mxGeometry x="130" y="400" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p4RkM09pUHm_iv8dgquL-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="p4RkM09pUHm_iv8dgquL-151" source="p4RkM09pUHm_iv8dgquL-178" target="p4RkM09pUHm_iv8dgquL-178">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p4RkM09pUHm_iv8dgquL-185" value="QA清单" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-151">
+        <mxCell id="p4RkM09pUHm_iv8dgquL-185" value="&lt;span style=&quot;font-weight: 700&quot;&gt;QC&lt;/span&gt;清单" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-151">
           <mxGeometry x="120" y="570" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p4RkM09pUHm_iv8dgquL-189" value="QA任务完成依据&lt;br&gt;（视频，图片，文字）" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-151">
+        <mxCell id="p4RkM09pUHm_iv8dgquL-189" value="&lt;span style=&quot;font-weight: 700&quot;&gt;QC&lt;/span&gt;任务完成依据&lt;br&gt;（视频，图片，文字）" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-151">
           <mxGeometry x="110" y="730" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p4RkM09pUHm_iv8dgquL-153" value="数据中中心" style="swimlane;html=1;startSize=20;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-131">
@@ -55,10 +55,10 @@
         <mxCell id="p4RkM09pUHm_iv8dgquL-154" value="用户数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-153">
           <mxGeometry x="160" y="160" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p4RkM09pUHm_iv8dgquL-182" value="产品QA流程清单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-153">
+        <mxCell id="p4RkM09pUHm_iv8dgquL-182" value="产品&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 8px ; font-weight: 700&quot;&gt;QC&lt;/span&gt;&lt;br&gt;流程清单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-153">
           <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p4RkM09pUHm_iv8dgquL-190" value="QA任务完成依据入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-153">
+        <mxCell id="p4RkM09pUHm_iv8dgquL-190" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 8px ; font-weight: 700&quot;&gt;QC&lt;/span&gt;任务完成依据入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="p4RkM09pUHm_iv8dgquL-153">
           <mxGeometry x="160" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p4RkM09pUHm_iv8dgquL-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="p4RkM09pUHm_iv8dgquL-131" source="p4RkM09pUHm_iv8dgquL-152" target="p4RkM09pUHm_iv8dgquL-154">
